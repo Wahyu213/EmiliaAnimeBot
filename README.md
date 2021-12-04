@@ -1,6 +1,6 @@
 ![Mio akiyama - Google Search](https://user-images.githubusercontent.com/91831925/144709220-7796b895-9b18-4bdf-a714-572b2f16a38f.png)
 
-# Mio 
+# Mio Akiyama
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Wahyu213/MioAnimeBot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html)<br> [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)<br> [![Updates channel!](https://img.shields.io/badge/Join%20Channel-↗-red)](https://t.me/Kurosupport) 
 [![Support Group!](https://img.shields.io/badge/Join%20Group-↗-green)](https://t.me/UmaruSupport)
 
